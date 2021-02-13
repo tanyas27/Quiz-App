@@ -1,0 +1,17 @@
+.quizCard{
+    background-color: #fff;
+    margin: 20px;
+    padding: 20px;
+}
+
+.quizCard .header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+}
+
+.quizCard .header button{
+    position: absolute;
+    right: 0;
+}

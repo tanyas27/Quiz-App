@@ -1,0 +1,10 @@
+.all-quizes{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.all-quizes h1{
+  margin-top: 8%;
+}

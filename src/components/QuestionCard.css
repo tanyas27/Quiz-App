@@ -1,0 +1,22 @@
+#timer-progress{
+    background-color: #fff;
+    padding: 5px 5px 0 5px;
+}
+
+.question-card{
+    width: 90%;
+    margin: 10% auto;
+}
+
+.question{
+    background-color: #F7F7F7;
+    font-size:xx-large;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.question-card .input-group label{
+    height: 65px;
+    font-size: larger;
+    padding: 5px;
+}
